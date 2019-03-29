@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 類經
-#+DATE: 2019-03-29 21:06:43.157100
+#+DATE: 2019-03-29 21:06:43.791065
 #+PROPERTY: ID KR3e0085
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 34
 <pb:KR3e0085_WYG_034-1a>¶
 　　欽定四庫全書¶
@@ -438,7 +438,7 @@
 天主上在泉主下左右四間各有專主不時相加以為¶
 交合此六化之變變有不測即所謂非其位則邪也故¶
 正則為徳化政令邪則為災變𤯝傷太者之至徐而常¶
-少者之至暴而亡而凡為&KR0075;勝邪勝相勝相復等變亦¶
+少者之至暴而亡而凡為淫勝邪勝相勝相復等變亦¶
 何莫非天地六化之氣所致歟¶
 <pb:KR3e0085_WYG_034-25b>¶
 ¶
